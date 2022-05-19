@@ -1,1 +1,1 @@
-# laba-3-ikg
+[# laba-3-ikg] (https://triplepointfive.github.io/ogltutor/)
